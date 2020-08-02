@@ -4,4 +4,3 @@ And at future i create upgrade for this plugin.
 
 Mail: hrasek1000@gmail.com
 Author: Hrasek1000
-h
