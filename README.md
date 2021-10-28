@@ -4,5 +4,4 @@ And at future i create upgrade for this plugin.
 And I know... this plugin is not original but me want upgrade him on new level.
 
 Email: hrasek1000@gmail.com
-Discord: https://discord.gg/AqXzbWs 
 Author: Hrasek1000
